@@ -10,10 +10,6 @@
 <img src = "assets/profile_picture.png" align="right">
 <div align= "left">
 <pre>			
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
 class GameDeveloper:
 	def __init__(self):
 		self.name = "Felipe Batista"
@@ -29,9 +25,8 @@ class GameDeveloper:
 
 me = GameDeveloper()
 me.say_hello()
-
 </pre>
-'''
+
 </div>
 <!--Stats-->
 <a href="https://github.com/OrangePixelEye?tab=repositories">
