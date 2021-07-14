@@ -30,8 +30,9 @@ class GameDeveloper:
 
 me = GameDeveloper()
 me.say_hello()
-```
+
 </pre>
+'''
 </div>
 <!--Stats-->
 <a href="https://github.com/OrangePixelEye?tab=repositories">
