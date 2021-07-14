@@ -7,9 +7,12 @@
 <br/>
 <!--About-->
 <h2 align = "center">(☞ﾟヮﾟ)☞ About me: ☜(ﾟヮﾟ☜)</h2>
-<img src = "assets/profile_picture.png" align="right">
+<img src = "assets/profile_picture.png" align="right" height="210" width ="200">
 <div align= "left">
-<pre>			
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-		
+
 class GameDeveloper:
 	def __init__(self):
 		self.name = "Felipe Batista"
@@ -25,6 +28,7 @@ class GameDeveloper:
 
 me = GameDeveloper()
 me.say_hello()
+
 </pre>
 
 </div>
@@ -60,7 +64,7 @@ me.say_hello()
 </div>
 
 <a href="mailto:felipe.batistaa52@gmail.com">
-    <img src="hhttps://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/felipe-alves-batista-225464177/">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />        
