@@ -9,6 +9,7 @@
 <h2 align = "center">(☞ﾟヮﾟ)☞ About me: ☜(ﾟヮﾟ☜)</h2>
 <img src = "assets/profile_picture.png" align="right" height="210" width ="200">
 <div align= "left">
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-		
@@ -28,7 +29,7 @@ class GameDeveloper:
 
 me = GameDeveloper()
 me.say_hello()
-
+```
 </pre>
 
 </div>
