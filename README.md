@@ -42,18 +42,16 @@ me.say_hello()
 </a>
 <br><br>
 
-<div align = "center">
+<div align = "left">
 <!--Some projects-->
 <h2 align = "center">(⌐■_■) Cool Projects: (⌐■_■)</h2>
 <br/>
 <a href="https://github.com/OrangePixelEye/FatecAmericanaCollection">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OrangePixelEye&repo=FatecAmericanaCollection&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
 </a>
-<br/>
 <a href="https://github.com/OrangePixelEye/flutter-apps">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OrangePixelEye&repo=flutter-apps&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
 </a>
-<br/>
 <a href="https://github.com/OrangePixelEye/kitchen-invaders">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OrangePixelEye&repo=kitchen-invaders&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
 </a>
