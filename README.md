@@ -34,13 +34,12 @@ me.say_hello()
 
 </div>
 <!--Stats-->
-<! This is not working 
 <a href="https://github.com/OrangePixelEye?tab=repositories">
 	<!--&layout=compact doesnt work-->
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrangePixelEye" width="400" height="200"/>
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrangePixelEye" width="400" height="300"/>
 </a>
 <a href="https://github.com/OrangePixelEye?tab=repositories">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=OrangePixelEye&,issues&show_icons=true" width="200" height="200"/>
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=OrangePixelEye&issues&show_icons=true" width="400" height="200"/>
 </a>
 <br><br>
 
