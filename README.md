@@ -34,11 +34,10 @@ me.say_hello()
 
 </div>
 <!--Stats-->
-<!-- This is not working 
+<! This is not working 
 <a href="https://github.com/OrangePixelEye?tab=repositories">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrangePixelEye&layout=compact" width="400" height="200"/>
-</a>-->
-<iframe width="400" height="200" src="https://ionicabizau.github.io/github-profile-languages/api.html?orangepixeleye" frameborder="0"></iframe>
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrangePixelEye" width="400" height="200"/>
+</a>
 <a href="https://github.com/OrangePixelEye?tab=repositories">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=OrangePixelEye&,issues&show_icons=true" width="400" height="200"/>
 </a>
