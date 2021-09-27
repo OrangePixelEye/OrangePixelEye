@@ -58,9 +58,6 @@ me.say_hello()
 <a href="https://github.com/OrangePixelEye/some-web-projects">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OrangePixelEye&repo=some-web-projects&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
 </a>
-<a href="https://github.com/OrangePixelEye/kitchen-invaders">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OrangePixelEye&repo=kitchen-invaders&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
-</a>
 <br/>
 </div>
 <!--Contacts-->
