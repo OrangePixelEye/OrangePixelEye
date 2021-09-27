@@ -7,7 +7,6 @@
 <br/>
 <!--About-->
 <h2 align = "center">(☞ﾟヮﾟ)☞ About me: ☜(ﾟヮﾟ☜)</h2>
-<img src = "assets/profile_picture.png" align="right" height="210" width ="200">
 <div align= "left">
 
 ```python
@@ -23,6 +22,9 @@ class GameDeveloper:
 		self.programming_languages = ["C#", "java", "python", "dart"]
 		self.hobbies = ["games", "anime", "manga", "tech stuff", "drawing", "music"]
 		self.learning = ["data strucutures"]
+
+	def status(self):
+		print("I'm currently doing some online courses in the Digital Innovation One's online platform and working on some school projects.")
 
 	def say_hello(self):
 		print("Thanks for dropping by, i hope you like some of my projects.")
@@ -71,7 +73,4 @@ me.say_hello()
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/felipe-alves-batista-225464177/">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />        
-</a>&nbsp;&nbsp;
-<a href="https://www.reddit.com/user/OrangePixelEye">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-</a>&nbsp;&nbsp;
+</a>
