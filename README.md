@@ -71,3 +71,4 @@ me.say_hello()
 <a href="https://www.linkedin.com/in/felipe-alves-batista-225464177/">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />        
 </a>
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=OrangePixelEye.OrangePixelEye" alt="visitors"></p>
