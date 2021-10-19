@@ -44,25 +44,9 @@ me.say_hello()
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=OrangePixelEye&issues&show_icons=true" width="400" height="200"/>
 </a>
 <br><br>
-
-<div align = "left">
-<!--Some projects-->
-<h2 align = "center">(⌐■_■) Cool Projects: (⌐■_■)</h2>
-<br/>
-<a href="https://github.com/OrangePixelEye/FatecAmericanaCollection">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OrangePixelEye&repo=FatecAmericanaCollection&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
-</a>
-<a href="https://github.com/OrangePixelEye/flutter-apps">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OrangePixelEye&repo=flutter-apps&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
-</a>
-<a href="https://github.com/OrangePixelEye/some-web-projects">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OrangePixelEye&repo=some-web-projects&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
-</a>
-<br/>
-</div>
 <!--Contacts-->
 <div align="center">
-<h2 align = "center">ᓚᘏᗢContacts me:ᓚᘏᗢ</h2>
+<h2 align = "center">ᓚᘏᗢ Contacts: ᓚᘏᗢ</h2>
 </div>
 
 <a href="mailto:felipe.batistaa52@gmail.com">
