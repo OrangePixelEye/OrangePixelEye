@@ -21,7 +21,7 @@ class GameDeveloper:
 		self.tools = ["flutter", ".NET", "godot", "unity"]
 		self.programming_languages = ["C#", "java", "python", "dart"]
 		self.hobbies = ["games", "anime", "manga", "tech stuff", "drawing", "music"]
-		self.learning = ["data strucutures"]
+		self.learning = ["data strucutures", ".net", "kotlin"]
 
 	def status(self):
 		print("I'm currently doing some online courses in the Digital Innovation One's online platform and working on some school projects.")
