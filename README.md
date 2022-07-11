@@ -18,13 +18,11 @@ class GameDeveloper:
 		self.name = "Felipe Batista"
 		self.role = "Game Development student"
 		self.language_spoken = ["pt_BR", "en_US"]
-		self.tools = ["flutter", ".NET", "godot", "unity"]
-		self.programming_languages = ["C#", "java", "python", "dart"]
+		self.tools = [".NET", "godot", "unity"]
+		self.programming_languages = ["C#", "php", "python", "typescript"]
 		self.hobbies = ["games", "anime", "manga", "tech stuff", "drawing", "music"]
-		self.learning = ["data strucutures", ".net", "kotlin"]
+		self.learning = ["React.js", "Vue.js"]
 
-	def status(self):
-		print("I'm currently doing some online courses in the Digital Innovation One's online platform and working on some school projects.")
 
 	def say_hello(self):
 		print("Thanks for dropping by, i hope you like some of my projects.")
