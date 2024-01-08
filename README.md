@@ -9,26 +9,35 @@
 <h2 align = "center">(☞ﾟヮﾟ)☞ About me: ☜(ﾟヮﾟ☜)</h2>
 <div align= "left">
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-		
+```typescript
+class FullStackDeveloper {
+    name:  string;
+    role: string;
+    communicationLanguages: Array<string>;
+    programmingLanguages: Array<string>;
+    hobbies: Array<string>;
+    databases: Array<string>;
+    learning: Array<string>;
+    frameworks: Array<string>;
 
-class GameDeveloper:
-	def __init__(self):
-		self.name = "Felipe Batista"
-		self.role = "Game Development student"
-		self.language_spoken = ["pt_BR", "en_US"]
-		self.tools = [".NET", "godot", "unity"]
-		self.programming_languages = ["C#", "php", "python", "typescript"]
-		self.hobbies = ["games", "anime", "manga", "tech stuff", "drawing", "music"]
-		self.learning = ["React.js", "Vue.js"]
+    constructor() {
+        this.name = "Felipe Batista";
+        this.role = "Full Stack Developer Typescript";
+        this.communicationLanguages = ["pt_BR", "en_US"];
+        this.databases = ["MySQL"];
+        this.frameworks = ["Vue js", "Nest JS", "NextJS"];
+        this.programmingLanguages = ["php", "typescript", "gdscript", "C#" ];
+        this.hobbies = ["games", "music", "reading", "game development"];
+        this.learning = ["HTMX", "bass"];
+    }
 
+    sayHello() {
+        console.log("Thanks for dropping by");
+    }
+}
 
-	def say_hello(self):
-		print("Thanks for dropping by, i hope you like some of my projects.")
-
-me = GameDeveloper()
-me.say_hello()
+const me = new FullStackDeveloper();
+me.say_hello();
 ```
 </pre>
 
@@ -53,4 +62,3 @@ me.say_hello()
 <a href="https://www.linkedin.com/in/felipe-alves-batista-225464177/">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />        
 </a>
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=OrangePixelEye.OrangePixelEye" alt="visitors"></p>
